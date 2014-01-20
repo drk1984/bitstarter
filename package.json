@@ -1,0 +1,19 @@
+{
+  "name": "bitstarter",
+  "version": "0.0.0",
+  "description": "first ever app deploy",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drk1984/bitstarter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drk1984/bitstarter/issues"
+  },
+  "homepage": "https://github.com/drk1984/bitstarter"
+}
